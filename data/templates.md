@@ -16,7 +16,7 @@ Daylio's backup comes as a single `.json` file, `base64`-ed and aliased as `back
 "dayEntries": 
 [
     {
-        "id": <int, entry ID>,  // this ID is obviously unique, but not numbered chronologically or even starting from 0 or 1...
+        "id": <int, entry ID>,  # this ID is obviously unique, but not numbered chronologically or even starting from 0 or 1...
         "minute": <int>,
         "hour": <int>,
         "day": <int>,
