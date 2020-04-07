@@ -12,7 +12,7 @@ The sections in their respective files which are meaningful towards the purpose 
 ## Daylio
 
 Daylio's backup comes as a single `.json` file, `base64`-ed and aliased as `backup_{yyyy}_{mm}_{dd}.daylio:`
-```json
+```python
 "dayEntries": 
 [
     {
@@ -97,7 +97,7 @@ MoodPath's export file comes as a `.zip` archive storing 3 `.csv` files:
 -   `notes.csv`
 
 `happiness_scores.csv`:
-```csv
+```
 happiness_score, entry_time
 
 <int: 1=worst, 5=best>,
@@ -105,14 +105,14 @@ happiness_score, entry_time
 ```
 
 `notes.csv`:
-```csv
+```
 content, entry_time
 
 <str>, <yyyy-mm-dd hh:mm:ss +tmzn>
 ```
 
 `answers.csv`:
-```csv
+```
 answered_at, question, answer, intensity
 
 <yyyy-mm-dd hh:mm:ss +tmzn>,
