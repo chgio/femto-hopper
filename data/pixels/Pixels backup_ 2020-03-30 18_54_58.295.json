@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2020-03-29",
+        "mood": 4,
+        "emotions": [
+            "chill",
+            "happiness",
+            "love",
+            "optimism"
+        ],
+        "notes": "this is a test note"
+    },
+    {
+        "date": "2020-03-30",
+        "mood": 5,
+        "emotions": [
+            "excitement",
+            "joy",
+            "optimism",
+            "stress",
+            "test"
+        ],
+        "notes": "this is another test note"
+    }
+]

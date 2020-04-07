@@ -1,0 +1,28 @@
+{
+    "text": "<p dir=\"auto\">test entry<\/p>",
+    "date_modified": 1585593606009,
+    "date_journal": 1585506999122,
+    "id": "1585593399094-3fe36506176fb67a",
+    "preview_text": "<p dir=\"auto\">test entry<\/p>",
+    "address": "",
+    "music_artist": "",
+    "music_title": "",
+    "lat": 1.7976931348623157E308,
+    "lon": 1.7976931348623157E308,
+    "mood": 7,
+    "label": "",
+    "folder": "",
+    "sentiment": 0.75,
+    "timezone": "Europe\/London",
+    "favourite": false,
+    "type": "html",
+    "weather": {
+        "id": -1,
+        "degree_c": 1.7976931348623157E308,
+        "description": "",
+        "icon": "",
+        "place": ""
+    },
+    "photos": [],
+    "tags": []
+}
