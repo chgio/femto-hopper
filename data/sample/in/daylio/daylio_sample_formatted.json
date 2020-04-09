@@ -1,0 +1,617 @@
+{
+    "achievements": [
+        {
+            "AC_FIRST_ENTRY_SEEN": true,
+            "AC_FIRST_ENTRY_UNLOCKED_AT": 1586345902144,
+            "name": "AC_FIRST_ENTRY"
+        },
+        {
+            "AC_ENTRIES_CURRENT_LEVEL": 1,
+            "AC_ENTRIES_CURRENT_VALUE": 4,
+            "AC_ENTRIES_LAST_SEEN_LEVEL": 1,
+            "AC_ENTRIES_SEEN": false,
+            "AC_ENTRIES_UNLOCKED_AT": 1586373769118,
+            "name": "AC_ENTRIES"
+        },
+        {
+            "AC_ENTRIES_BONUS_LVL_CURRENT_LEVEL": 0,
+            "AC_ENTRIES_BONUS_LVL_CURRENT_VALUE": 4,
+            "AC_ENTRIES_BONUS_LVL_LAST_SEEN_LEVEL": 0,
+            "AC_ENTRIES_BONUS_LVL_SEEN": false,
+            "AC_ENTRIES_BONUS_LVL_UNLOCKED_AT": 0,
+            "name": "AC_ENTRIES_BONUS_LVL"
+        },
+        {
+            "AC_STREAK_CURRENT_LEVEL": 0,
+            "AC_STREAK_CURRENT_VALUE": 2,
+            "AC_STREAK_LAST_SEEN_LEVEL": 0,
+            "AC_STREAK_SEEN": false,
+            "AC_STREAK_UNLOCKED_AT": 0,
+            "name": "AC_STREAK"
+        },
+        {
+            "AC_MEGA_STREAK_CURRENT_LEVEL": 0,
+            "AC_MEGA_STREAK_CURRENT_VALUE": 2,
+            "AC_MEGA_STREAK_LAST_SEEN_LEVEL": 0,
+            "AC_MEGA_STREAK_SEEN": false,
+            "AC_MEGA_STREAK_UNLOCKED_AT": 0,
+            "name": "AC_MEGA_STREAK"
+        },
+        {
+            "AC_STREAK_BONUS_SEEN": false,
+            "AC_STREAK_BONUS_UNLOCKED_AT": 0,
+            "name": "AC_STREAK_BONUS"
+        },
+        {
+            "AC_TAGS_CURRENT_LEVEL": 2,
+            "AC_TAGS_CURRENT_VALUE": 25,
+            "AC_TAGS_LAST_SEEN_LEVEL": 2,
+            "AC_TAGS_SEEN": false,
+            "AC_TAGS_UNLOCKED_AT": 1586345829183,
+            "name": "AC_TAGS"
+        },
+        {
+            "AC_MOODS_CURRENT_LEVEL": 0,
+            "AC_MOODS_CURRENT_VALUE": 5,
+            "AC_MOODS_LAST_SEEN_LEVEL": 0,
+            "AC_MOODS_SEEN": false,
+            "AC_MOODS_UNLOCKED_AT": 0,
+            "name": "AC_MOODS"
+        },
+        {
+            "AC_GOALS_DEDICATED_CURRENT_LEVEL": 1,
+            "AC_GOALS_DEDICATED_CURRENT_VALUE": 1,
+            "AC_GOALS_DEDICATED_LAST_SEEN_LEVEL": 1,
+            "AC_GOALS_DEDICATED_SEEN": false,
+            "AC_GOALS_DEDICATED_UNLOCKED_AT": 1586345829403,
+            "name": "AC_GOALS_DEDICATED"
+        },
+        {
+            "AC_COLORS_SEEN": false,
+            "AC_COLORS_UNLOCKED_AT": 0,
+            "name": "AC_COLORS"
+        },
+        {
+            "AC_MULTIPLE_ENTRIES_SEEN": true,
+            "AC_MULTIPLE_ENTRIES_UNLOCKED_AT": 1586373769118,
+            "name": "AC_MULTIPLE_ENTRIES"
+        },
+        {
+            "AC_GROUPS_SEEN": true,
+            "AC_GROUPS_UNLOCKED_AT": 1586345829178,
+            "name": "AC_GROUPS"
+        },
+        {
+            "AC_AUTO_BACKUP_SEEN": false,
+            "AC_AUTO_BACKUP_UNLOCKED_AT": 0,
+            "name": "AC_AUTO_BACKUP"
+        },
+        {
+            "AC_PREMIUM_SEEN": false,
+            "AC_PREMIUM_UNLOCKED_AT": 0,
+            "name": "AC_PREMIUM"
+        },
+        {
+            "AC_ROLLERCOASTER_SEEN": false,
+            "AC_ROLLERCOASTER_UNLOCKED_AT": 0,
+            "name": "AC_ROLLERCOASTER"
+        },
+        {
+            "AC_PIN_CODE_SEEN": false,
+            "AC_PIN_CODE_UNLOCKED_AT": 0,
+            "name": "AC_PIN_CODE"
+        },
+        {
+            "AC_NO_BACKUP_SEEN": false,
+            "AC_NO_BACKUP_UNLOCKED_AT": 0,
+            "name": "AC_NO_BACKUP"
+        },
+        {
+            "AC_MEH_DAYS_SEEN": false,
+            "AC_MEH_DAYS_UNLOCKED_AT": 0,
+            "name": "AC_MEH_DAYS"
+        },
+        {
+            "AC_GOOD_DAYS_SEEN": false,
+            "AC_GOOD_DAYS_UNLOCKED_AT": 0,
+            "name": "AC_GOOD_DAYS"
+        },
+        {
+            "AC_RAD_DAYS_SEEN": false,
+            "AC_RAD_DAYS_UNLOCKED_AT": 0,
+            "name": "AC_RAD_DAYS"
+        },
+        {
+            "AC_MOODS_BONUS_CURRENT_VALUE": 5,
+            "AC_MOODS_BONUS_SEEN": false,
+            "AC_MOODS_BONUS_UNLOCKED_AT": 0,
+            "name": "AC_MOODS_BONUS"
+        },
+        {
+            "AC_TAGS_BONUS_CURRENT_VALUE": 25,
+            "AC_TAGS_BONUS_SEEN": false,
+            "AC_TAGS_BONUS_UNLOCKED_AT": 0,
+            "name": "AC_TAGS_BONUS"
+        },
+        {
+            "AC_LUCKY_STREAK_SEEN": false,
+            "AC_LUCKY_STREAK_UNLOCKED_AT": 0,
+            "name": "AC_LUCKY_STREAK"
+        },
+        {
+            "AC_GOAL_1_CURRENT_LEVEL": 0,
+            "AC_GOAL_1_CURRENT_VALUE": 2,
+            "AC_GOAL_1_LAST_SEEN_LEVEL": 0,
+            "AC_GOAL_1_LONGEST_STREAK": 2,
+            "AC_GOAL_1_SEEN": false,
+            "AC_GOAL_1_UNLOCKED_AT": 0,
+            "name": "AC_GOAL_1"
+        }
+    ],
+    "customMoods": [
+        {
+            "createdAt": 1586345828085,
+            "custom_name": "",
+            "icon_id": 12,
+            "id": 1,
+            "is_active": true,
+            "mood_group_id": 1,
+            "mood_group_order": 0,
+            "predefined_name_id": 1
+        },
+        {
+            "createdAt": 1586345828085,
+            "custom_name": "",
+            "icon_id": 7,
+            "id": 2,
+            "is_active": true,
+            "mood_group_id": 2,
+            "mood_group_order": 0,
+            "predefined_name_id": 2
+        },
+        {
+            "createdAt": 1586345828085,
+            "custom_name": "",
+            "icon_id": 3,
+            "id": 3,
+            "is_active": true,
+            "mood_group_id": 3,
+            "mood_group_order": 0,
+            "predefined_name_id": 3
+        },
+        {
+            "createdAt": 1586345828085,
+            "custom_name": "",
+            "icon_id": 18,
+            "id": 4,
+            "is_active": true,
+            "mood_group_id": 4,
+            "mood_group_order": 0,
+            "predefined_name_id": 4
+        },
+        {
+            "createdAt": 1586345828085,
+            "custom_name": "",
+            "icon_id": 10,
+            "id": 5,
+            "is_active": true,
+            "mood_group_id": 5,
+            "mood_group_order": 0,
+            "predefined_name_id": 5
+        }
+    ],
+    "dayEntries": [
+        {
+            "datetime": 1586424344628,
+            "day": 9,
+            "hour": 10,
+            "id": 4,
+            "minute": 25,
+            "month": 3,
+            "mood": 5,
+            "note": "Womp womp",
+            "tags": [
+                4,
+                8,
+                10,
+                18,
+                19
+            ],
+            "timeZoneOffset": 3600000,
+            "year": 2020
+        },
+        {
+            "datetime": 1586373679587,
+            "day": 8,
+            "hour": 20,
+            "id": 3,
+            "minute": 21,
+            "month": 3,
+            "mood": 3,
+            "note": "I waited too long to eat since breakfast, then I ate pizza, and sheese and onion crisps, and a magnum ice cream, and grapes, and now I regret everythinggg",
+            "tags": [
+                1,
+                5,
+                19
+            ],
+            "timeZoneOffset": 3600000,
+            "year": 2020
+        },
+        {
+            "datetime": 1586354401615,
+            "day": 8,
+            "hour": 15,
+            "id": 2,
+            "minute": 0,
+            "month": 3,
+            "mood": 2,
+            "note": "",
+            "tags": [
+                1,
+                3,
+                5,
+                17,
+                19
+            ],
+            "timeZoneOffset": 3600000,
+            "year": 2020
+        },
+        {
+            "datetime": 1586345833835,
+            "day": 8,
+            "hour": 12,
+            "id": 1,
+            "minute": 37,
+            "month": 3,
+            "mood": 1,
+            "note": "I had breakfast and am going to start looking at the mood project.",
+            "tags": [
+                5,
+                7,
+                10,
+                15,
+                18
+            ],
+            "timeZoneOffset": 3600000,
+            "year": 2020
+        }
+    ],
+    "daysInRowLongestChain": 2,
+    "goals": [
+        {
+            "created_at": 1586300400000,
+            "end_date": -1,
+            "goal_id": 1,
+            "id": 1,
+            "id_tag": 19,
+            "note": "Time to get your goal done!",
+            "order_number": 0,
+            "reminder_enabled": true,
+            "reminder_hour": 15,
+            "reminder_minute": 0,
+            "repeat_type": 1,
+            "repeat_value": 127,
+            "state": 0
+        }
+    ],
+    "isReminderOn": true,
+    "metadata": {
+        "android_version": 9,
+        "created_at": 1586427330417,
+        "is_auto_backup": false,
+        "number_of_entries": 4,
+        "platform": "android"
+    },
+    "prefs": [
+        {
+            "key": "BACKUP_REMINDER_DONT_SHOW_AGAIN",
+            "pref_name": "default",
+            "value": true
+        },
+        {
+            "key": "LAST_DAYS_IN_ROWS_NUMBER",
+            "pref_name": "default",
+            "value": 2
+        },
+        {
+            "key": "DAYS_IN_ROW_LONGEST_CHAIN",
+            "pref_name": "default",
+            "value": 2
+        },
+        {
+            "key": "LAST_ENTRY_CREATION_TIME",
+            "pref_name": "default",
+            "value": 1586424418019
+        },
+        {
+            "key": "COLOR_PALETTE_DEFAULT_CODE",
+            "pref_name": "default",
+            "value": 16
+        },
+        {
+            "key": "GOALS_TOTAL",
+            "pref_name": "goals",
+            "value": 1
+        },
+        {
+            "key": "PREDEFINED_MOODS_VARIANT",
+            "pref_name": "default",
+            "value": 5
+        },
+        {
+            "key": "ONBOARDING_USER_PROPERTY",
+            "pref_name": "default",
+            "value": "finished"
+        },
+        {
+            "key": "SUBSCRIPTION_PAGE_NUMBER_OF_VISITS",
+            "pref_name": "default",
+            "value": 1
+        },
+        {
+            "key": "SUBSCRIPTION_IS_FREE_TRIAL_POSSIBLE",
+            "pref_name": "default",
+            "value": true
+        }
+    ],
+    "reminderTime": "72000000",
+    "tag_groups": [
+        {
+            "id": 1,
+            "is_expanded": true,
+            "name": "Hobbies",
+            "order": 0
+        },
+        {
+            "id": 2,
+            "is_expanded": true,
+            "name": "Sleep",
+            "order": 1
+        },
+        {
+            "id": 3,
+            "is_expanded": true,
+            "name": "Food",
+            "order": 2
+        },
+        {
+            "id": 4,
+            "is_expanded": true,
+            "name": "Health",
+            "order": 3
+        },
+        {
+            "id": 5,
+            "is_expanded": true,
+            "name": "Better Me",
+            "order": 4
+        }
+    ],
+    "tags": [
+        {
+            "createdAt": 1586345827079,
+            "icon": 91,
+            "id": 1,
+            "id_tag_group": 1,
+            "name": "movies & tv",
+            "order": 1,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827080,
+            "icon": 12,
+            "id": 2,
+            "id_tag_group": 1,
+            "name": "reading",
+            "order": 2,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827081,
+            "icon": 30,
+            "id": 3,
+            "id_tag_group": 1,
+            "name": "gaming",
+            "order": 3,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827082,
+            "icon": 67,
+            "id": 4,
+            "id_tag_group": 1,
+            "name": "sport",
+            "order": 4,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827083,
+            "icon": 9,
+            "id": 5,
+            "id_tag_group": 1,
+            "name": "relax",
+            "order": 5,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827084,
+            "icon": 355,
+            "id": 6,
+            "id_tag_group": 2,
+            "name": "sleep early",
+            "order": 6,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827085,
+            "icon": 357,
+            "id": 7,
+            "id_tag_group": 2,
+            "name": "good sleep",
+            "order": 7,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827086,
+            "icon": 356,
+            "id": 8,
+            "id_tag_group": 2,
+            "name": "medium sleep",
+            "order": 8,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827087,
+            "icon": 358,
+            "id": 9,
+            "id_tag_group": 2,
+            "name": "bad sleep",
+            "order": 9,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827088,
+            "icon": 194,
+            "id": 10,
+            "id_tag_group": 3,
+            "name": "eat healthy",
+            "order": 10,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827089,
+            "icon": 45,
+            "id": 11,
+            "id_tag_group": 3,
+            "name": "fast food",
+            "order": 11,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827090,
+            "icon": 49,
+            "id": 12,
+            "id_tag_group": 3,
+            "name": "homemade",
+            "order": 12,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827091,
+            "icon": 65,
+            "id": 13,
+            "id_tag_group": 3,
+            "name": "restaurant",
+            "order": 13,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827092,
+            "icon": 14,
+            "id": 14,
+            "id_tag_group": 3,
+            "name": "delivery",
+            "order": 14,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827093,
+            "icon": 350,
+            "id": 15,
+            "id_tag_group": 3,
+            "name": "no meat",
+            "order": 15,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827094,
+            "icon": 32,
+            "id": 16,
+            "id_tag_group": 3,
+            "name": "no sweets",
+            "order": 16,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827095,
+            "icon": 359,
+            "id": 17,
+            "id_tag_group": 3,
+            "name": "no soda",
+            "order": 17,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827096,
+            "icon": 336,
+            "id": 18,
+            "id_tag_group": 4,
+            "name": "exercise",
+            "order": 18,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827097,
+            "icon": 353,
+            "id": 19,
+            "id_tag_group": 4,
+            "name": "drink water",
+            "order": 19,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827098,
+            "icon": 278,
+            "id": 20,
+            "id_tag_group": 4,
+            "name": "walk",
+            "order": 20,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827099,
+            "icon": 56,
+            "id": 21,
+            "id_tag_group": 5,
+            "name": "meditation",
+            "order": 21,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827100,
+            "icon": 360,
+            "id": 22,
+            "id_tag_group": 5,
+            "name": "kindness",
+            "order": 22,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827101,
+            "icon": 304,
+            "id": 23,
+            "id_tag_group": 5,
+            "name": "listen",
+            "order": 23,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827102,
+            "icon": 135,
+            "id": 24,
+            "id_tag_group": 5,
+            "name": "donate",
+            "order": 24,
+            "state": 0
+        },
+        {
+            "createdAt": 1586345827103,
+            "icon": 123,
+            "id": 25,
+            "id_tag_group": 5,
+            "name": "give gift",
+            "order": 25,
+            "state": 0
+        }
+    ]
+}
