@@ -67,5 +67,7 @@ femto = []
 for i in range(len(times)):
     femto.append( {"time" : times[i], "mood": moods[i], "note" : notes[i]} )
     
+femto.sort(key=lambda x: x["time"])
+    
 with open("femto-v{v}.json".format(v=version), "w") as stream:
     json.dump(femto, stream, indent=4)
