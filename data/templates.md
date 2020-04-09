@@ -115,16 +115,18 @@ The sections in their respective files which are meaningful towards the purpose 
 
 ## MoodPath
 
-MoodPath's export file comes as a `.zip` archive storing 3 `.csv` files:
--   `answers.csv`
--   `happiness_scores.csv`
--   `notes.csv`
+MoodPath's export file comes as a `.zip` archive storing 5 `.csv` files:
+- `answers.csv`
+- `emotions.csv`
+- `happiness_scores.csv`
+- `notes.csv`
+- `situations.csv`
 
 `happiness_scores.csv`:
 ```
 happiness_score, entry_time
 
-<int: 1=worst ... 5=best>,
+<int: 0=worst ... 4=best>,
 <yyyy-mm-dd hh:mm:ss +tmzn>
 ```
 
@@ -143,6 +145,16 @@ answered_at, question, answer, intensity
 <str>,
 <yes/no>,
 <int: 0=lightest ... 5=heaviest>
+```
+
+`emotions.csv`:
+```
+
+```
+
+`situations.csv`:
+```
+
 ```
 
 In these files, the core mood data is represented by:
