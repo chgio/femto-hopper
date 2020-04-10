@@ -102,31 +102,58 @@ for survey in survey_list:
 
         if mood_score != None: # if this scale has a score
             mood_score = int(mood_score)
+            mood_lower = moods[i][1] # the adjective for a low score
+            mood_higher = moods[i][2] # the adjective for a high score
+
+            # handle 'special' scales
+            # external and internal focus
+            if mood_lower == "external focus":
+                mood_lower = "externally focussed"
+                mood_higher = "internally focussed"
+            # craving
+            elif mood_lower == "craving":
+                mood_score = 100 - mood_score # convert so 100 is maximal craving, not minimal
+                if mood_score == 0:
+                    note_list.append(f"I felt no craving ({mood_score}/100).")
+                elif mood_score in range(1,11):
+                    note_list.append(f"I felt a slight craving ({mood_score}/100).")
+                elif mood_score in range(11,31):
+                    note_list.append(f"I felt a bit of a craving ({mood_score}/100).")
+                elif mood_score in range(31,51):
+                    note_list.append(f"I felt a mild craving ({mood_score}/100).")
+                elif mood_score in range(51,71):
+                    note_list.append(f"I felt a moderate craving ({mood_score}/100).")
+                elif mood_score in range(71,91):
+                    note_list.append(f"I felt a heavy craving ({mood_score}/100).")
+                elif mood_score in range(91,101):
+                    note_list.append(f"I felt a very heavy craving ({mood_score}/100).")
+                continue # move to next scale
+            # all other scales
             # lower mood
             if mood_score in range(0,11): # if mood is between 0 and 10, inclusive
-                note_list.append(f"I felt very {moods[i][1]}.")
+                note_list.append(f"I felt very {mood_lower}.")
             elif mood_score in range(11,21): # if mood is between 11 and 20, inclusive
-                note_list.append(f"I felt quite {moods[i][1]}.")
+                note_list.append(f"I felt quite {mood_lower}.")
             elif mood_score in range(21,31): # if mood is between 21 and 30, inclusive
-                note_list.append(f"I felt {moods[i][1]}.")
+                note_list.append(f"I felt moderately {mood_lower}.")
             elif mood_score in range(31,41): # if mood is between 31 and 40, inclusive
-                note_list.append(f"I felt a bit {moods[i][1]}.")
+                note_list.append(f"I felt kind of {mood_lower}.")
             elif mood_score in range(41,46): # if mood is between 41 and 45, inclusive
-                note_list.append(f"I felt slightly {moods[i][1]}.")
+                note_list.append(f"I felt slightly {mood_lower}.")
             # neither mood
             elif mood_score in range(46,55): # if mood is between 46 and 54, inclusive
-                note_list.append(f"I felt neither {moods[i][1]} nor {moods[i][2]}.")
+                note_list.append(f"I felt neither {mood_lower} nor {mood_higher}.")
             # higher mood
             elif mood_score in range(55,60): # if mood is between 55 and 59, inclusive
-                note_list.append(f"I felt slightly {moods[i][1]}.")
+                note_list.append(f"I felt slightly {mood_higher}.")
             elif mood_score in range(60,70): # if mood is between 60 and 69, inclusive
-                note_list.append(f"I felt a bit {moods[i][1]}.")
+                note_list.append(f"I felt kind of {mood_higher}.")
             elif mood_score in range(70,80): # if mood is between 70 and 79, inclusive
-                note_list.append(f"I felt {moods[i][1]}.")
+                note_list.append(f"I felt moderately {mood_higher}.")
             elif mood_score in range(80,90): # if mood is between 80 and 89, inclusive
-                note_list.append(f"I felt quite {moods[i][1]}.")
+                note_list.append(f"I felt quite {mood_higher}.")
             elif mood_score in range(90,101): # if mood is between 90 and 100, inclusive
-                note_list.append(f"I felt very {moods[i][1]}.")
+                note_list.append(f"I felt very {mood_higher}.")
 
     note = " ".join(note_list)
 
