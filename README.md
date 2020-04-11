@@ -2,7 +2,7 @@
 
 ### A tool for improving data portability between mood tracking apps.
 
-![coral](img/coral.png)
+![coral](img/coral-alt.png)
 
 
 # Inspiration
