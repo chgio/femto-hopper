@@ -1,4 +1,4 @@
-# Daylio femto-IN
+# Daylio femto-in
 # updated to FEMTO:
 version = 0.1
 

@@ -1,4 +1,4 @@
-# Pixels femto-OUT
+# Pixels femto-out
 # updated to FEMTO:
 version = 0.1
 

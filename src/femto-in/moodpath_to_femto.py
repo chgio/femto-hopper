@@ -1,4 +1,4 @@
-# Moodpath femto-IN
+# Moodpath femto-in
 # updated to FEMTO:
 version = 0.1
 

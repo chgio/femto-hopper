@@ -1,4 +1,4 @@
-# MoodPatterns femto-IN
+# MoodPatterns femto-in
 # updated to FEMTO:
 version = 0.1
 
