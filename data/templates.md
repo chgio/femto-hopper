@@ -172,5 +172,5 @@ Other meaningful data is represented by:
 
 Generally, the **core mood data** includes any form of basic emotional data which is implemented by fairly all considered apps, and which is therefore expected to be retained across all formats in a uniform and machine-readable way -- as per the current version of the FEMTO specifications stored in `femto-spec.md`.
 
-On the other hand, the **other meaningful data** represents all other information which is more unique to individual implementations, yet still relevant to an accurate and thorough description of the mood.
+On the other hand, the **other meaningful data** represents all other information which is more unique to individual implementations, yet still relevant to an accurate and thorough description of the mood.     
 While this data is not ported via any of the fundamental FEMTO fields, it is still humanely meaningful: therefore, this is usually included in the `"note"` field as a simple, human-readable snippet of information extracted out of whatever value it used to represent.

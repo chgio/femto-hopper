@@ -1,4 +1,4 @@
-# FEMTO `v0.1`: Format for Essential Mood Translation Operations
+# FEMTO `v0.1`: Format for Essential Mood Transfer Operations
 
 ```python
 femto = [
