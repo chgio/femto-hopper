@@ -35,16 +35,16 @@ Plus, this allows for a common standard with a clear set of rules (specified in 
 ---
 
 The repository is composed of:
--   `data,` a folder for the user to store file backups at their discretion
-    -   `sample,` which hosts all the sample exports we have collected for documenting the different formats
-        -   `in,` for the files exported by the apps and to feed the program
-        -   `out,` for the files spit out by the program and to import to the apps
+-   `data`, a folder for the user to store file backups at their discretion
+    -   `sample`, which hosts all the sample exports we have collected for documenting the different formats
+        -   `in`, for the files exported by the apps and to feed the program
+        -   `out`, for the files spit out by the program and to import to the apps
     -   `templates.md` is where we keep a detailed record of all the formats we've included
--   `src,` divided in:
-    -   `femto-in,` storing the scripts that convert *from* the various export formats *to* the FEMTO standard
-    -   `femto-out,` storing the scripts that convert *from* the FEMTO standard *to* the various import formats
+-   `src`, divided in:
+    -   `femto-in`, storing the scripts that convert *from* the various export formats *to* the FEMTO standard
+    -   `femto-out`, storing the scripts that convert *from* the FEMTO standard *to* the various import formats
     -   `femto-spec.md` for the current FEMTO specifications
--   `img,` with the images for this readme
+-   `img`, with the images for this readme
 
 
 # Interface
