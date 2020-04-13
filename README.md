@@ -4,6 +4,8 @@
 
 ![coral](img/corals/coral_2.png)
 
+###### ICON BY [SMASHICONS](https://www.flaticon.com/authors/smashicons) ON [FLATICON](https://flaticon.com), © 2020 [\[LICENSE\]](https://www.freepikcompany.com/legal#nav-flaticon-agreement)
+
 
 # Inspiration
 
