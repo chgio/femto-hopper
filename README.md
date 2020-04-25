@@ -26,8 +26,8 @@ That's why **Femto-hopper** exists: to enable users to translate that basic mood
 # Composition
 
 The project is functionally made up of two main elements:
--   **FEMTO,** the common stanadard that specifies what data fields are retained throughout the conversion and how
--   the **scripts** themselves, which operate the conversions to and from the FEMTO standard
+-   **FEMTO** itself, the common stanadard that specifies what data fields are retained throughout the conversion and how
+-   the **scripts,** which operate the conversions to and from the FEMTO standard
 
 This "central" design (all formats to FEMTO, from FEMTO to all formats) was preferred over the "mesh" alternative (each format to each other format) for its **uniformity and scalability,** at the cost of thoroughness.       
 Otherwise, the number of individual scripts needed would increase quadratically, which would make scaling this project beyond a handful of apps a nightmare; instead, the two architectures even out at just 3 apps, and past that point the needed scripts only grow linearly, 2 more per each new app.
