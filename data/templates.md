@@ -1,4 +1,4 @@
-# mt-hopper Templates
+# Femto-hopper Templates
 
 
 ---
@@ -7,7 +7,7 @@
 
 The following apps support *backing up and restoring* via one or more **user-owned** files.
 
-The sections in their respective files which are meaningful towards the purpose of `mt-hopper` are exemplified and explained in the following.
+The sections in their respective files which are meaningful towards the purpose of Femto-hopper are exemplified and explained in the following.
 
 
 ## Daylio
@@ -110,7 +110,7 @@ Other meaningful data is represented by:
 Unlike the ones mentioned above, the following apps support *only exporting* to one or more **user-owned** files.       
 However, they were still considered, in order to allow users to migrate to a more data-conscious app without having to give up all their past data.
 
-The sections in their respective files which are meaningful towards the purpose of `mt-hopper` are exemplified and explained in the following.
+The sections in their respective files which are meaningful towards the purpose of Femto-hopper are exemplified and explained in the following.
 
 
 ## MoodPath

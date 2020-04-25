@@ -1,26 +1,26 @@
-# MT-hopper:
+# MFemto-hopper:
 
 ### A tool for improving data portability between mood tracking apps.
 
-![coral](img/corals/coral_2.png)
+![coral](img/coral/coral.png)
 
-###### ICON BY [SMASHICONS](https://www.flaticon.com/authors/smashicons) ON [FLATICON](https://flaticon.com), © 2020 [\[LICENSE\]](https://www.freepikcompany.com/legal#nav-flaticon-agreement)
+###### ICON BY [MADE X MADE](https://thenounproject.com/christian933) ON [THE NOUN PROJECT](https://thenounproject.com); &copy; 2020 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)
 
 
-# Inspiration
+# Introduction
 
 There are so many mood tracker apps around, and for a reason: they're all different in character, features and purpose, and each of them is appealing in its own unique and stylish way.        
 Among all the different designs, however, we recognise a handful of essential features they all have in common:
 -   some kind of **"mood out of x"** rating
 -   the option to **write down** your thoughts and feelings as a **note**
 
-Despite their fundamental similarities, transferring this extremely basic data between the various apps is often way too rough: they all export the data in different formats and with different internal structures, and not all of them even support a *truly* user-owned backup in the first place.      
+Despite their fundamental similarities, transferring this extremely basic data between the various apps is often way too rough: they all export it in different formats and with different internal structures, and not all of them even support a *truly* user-owned backup in the first place.      
 Using different formats is okay -- given the natural massive differences between them, it's obvious that the optimal ways of storing the data they record will be multiple and diverse.
 
 However, this makes switching from a mood tracker to another, or "hopping" (like *distro-hopping,* hence the name), much rougher than it should be: too often, it means giving up all your progress because of the incompatible formats.
 Plus, everyone is different and in continuous growth, and nobody expects any app to appeal to *all* the users *all* the time: people should be free to "hop" between mood trackers at their own discretion, all while still being able to retain at least some of their data.
 
-That's why **MT-hopper** exists: to enable users to translate the basic mood data so that they can keep it during their explorations of the mood tracker scene.     
+That's why **Femto-hopper** exists: to enable users to translate that basic mood data so that they can keep it during their explorations of the mood tracker scene.     
 
 
 # Composition
@@ -62,7 +62,7 @@ In the indefinite future, if the project gains enough track, it could be ported 
 Whether you're a user or a developer of a mood tracker, we look forward to including your app into our tool!
 
 ## As a user
-If you use a mood tracker app and you want it to be included in MT-hopper, let us know by taking this [Typeform Survey](https://ciakkig.typeform.com/to/FgAHqZ) so that we can steer our efforts towards involving it.
+If you use a mood tracker app and you want it to be included in Femto-hopper, let us know by taking this [Typeform Survey](https://ciakkig.typeform.com/to/FgAHqZ) so that we can steer our efforts towards involving it.
 
 The survey takes about 3 minutes to complete, and never asks you about any emotional data -- only about the *apps* themselves.
 
